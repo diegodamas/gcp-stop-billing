@@ -1,0 +1,4 @@
+gcp_project_management_id = "my-project"
+billing_account_id        = "012345-6789AB-CDEF01"
+budget_amount             = 10
+gcp_region                = "southamerica-east1"
